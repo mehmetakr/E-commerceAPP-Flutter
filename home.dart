@@ -192,8 +192,9 @@ class _homepageState extends State<homepage> {
 
 
 
+  
   Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
+mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       buildSalesItem5(
                           text: "Oyuncu koltuğu",
